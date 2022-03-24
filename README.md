@@ -1,1 +1,1 @@
-# Prime-Factorization-list
+This is a list of the prime factorizations of numbers in 100,000 number chunks. It is in json format and compressed with gzip. I will keep adding numbers to it. My goal is to make the biggest list of these numbers ever made. Feel free to use, but it's probably useless.
